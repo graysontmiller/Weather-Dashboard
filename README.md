@@ -6,7 +6,7 @@ A weather dashboard application made from JavaScript, with html and bootstrap cs
 
 This project was made for challenge #6 in the UNCC Web Development boot-camp. The goal of this application was to practice utilizing server-side APIs to create a weather dashboard application as well as storing searched cities in the localStorage for easy access within a history section. I was not supplied any starter code and had to create my application from scratch.
 
-[Access application here](https://graysontmiller.github.io/coding-quiz/)
+[Access application here](https://graysontmiller.github.io/Weather-Dashboard/)
 
 
 ![Display Image](/assets/Deployed_SC.png)
